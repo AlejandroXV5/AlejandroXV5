@@ -34,22 +34,22 @@ habilidades = ["Desarrollo Web", "POO", "Bases de Datos", "Git"]
 
 ## 📊 Estadísticas de GitHub
 
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=AlejandroXV5
-&show_icons=true&theme=radical)
+![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=AlejandroXV5&show_icons=true&theme=dark&hide_border=true)
 
-![Lenguajes más utilizados](https://github-readme-stats.vercel.app/api/top-langs/?username=AlejandroXV5
-&layout=compact&theme=radical)
+![Lenguajes más utilizados](https://github-readme-stats.vercel.app/api/top-langs/?username=AlejandroXV5&layout=compact&theme=dark&hide_border=true)
 
 ## 🏆 Racha de Contribuciones
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=AlejandroXV5
-&theme=radical)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=AlejandroXV5&theme=dark&hide_border=true)](https://git.io/streak-stats)
 
 ## 📈 Actividad
 
-![Gráfico de actividad](https://github-readme-activity-graph.vercel.app/graph?username=AlejandroXV5
-&theme=redical)
+![Gráfico de actividad](https://github-readme-activity-graph.cyclic.app/graph?username=AlejandroXV5&theme=github-dark&hide_border=true)
 
+## 📫 Conecta conmigo
+
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bolale831@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AlejandroXV5)
 
 ---
 
@@ -61,9 +61,12 @@ habilidades = ["Desarrollo Web", "POO", "Bases de Datos", "Git"]
 
 ### 📊 Métricas del Perfil
 
-![Visualizaciones del perfil](https://komarev.com/ghpvc/?username=AlejandroXV5
-&label=Visualizaciones%20del%20perfil&color=0e75b6&style=flat)
-![Seguidores](https://img.shields.io/github/followers/AlejandroXV5
-?label=Seguidores&style=social)
-![Estrellas](https://img.shields.io/github/stars/AlejandroXV5
-?label=Estrellas&style=social)
+![Visualizaciones del perfil](https://komarev.com/ghpvc/?username=AlejandroXV5&label=Visualizaciones&color=brightgreen&style=flat-square)
+![Seguidores](https://img.shields.io/github/followers/AlejandroXV5?label=Seguidores&style=flat-square&color=blue)
+
+### 🛠️ Herramientas de Desarrollo
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
