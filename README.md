@@ -44,7 +44,7 @@ habilidades = ["Desarrollo Web", "POO", "Bases de Datos", "Git"]
 
 ## 📈 Actividad
 
-![Gráfico de actividad](https://github-readme-activity-graph.cyclic.app/graph?username=AlejandroXV5&theme=github-dark&hide_border=true)
+![Gráfico de actividad](https://github-readme-activity-graph.vercel.app/graph?username=AlejandroXV5&theme=github-dark)
 
 ## 📫 Conecta conmigo
 
@@ -59,12 +59,12 @@ habilidades = ["Desarrollo Web", "POO", "Bases de Datos", "Git"]
 
 ---
 
-### 📊 Métricas del Perfil
+## 📊 Métricas del Perfil
 
 ![Visualizaciones del perfil](https://komarev.com/ghpvc/?username=AlejandroXV5&label=Visualizaciones&color=brightgreen&style=flat-square)
 ![Seguidores](https://img.shields.io/github/followers/AlejandroXV5?label=Seguidores&style=flat-square&color=blue)
 
-### 🛠️ Herramientas de Desarrollo
+## 🛠️ Herramientas de Desarrollo
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
