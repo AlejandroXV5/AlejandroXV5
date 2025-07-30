@@ -34,23 +34,22 @@ habilidades = ["Desarrollo Web", "POO", "Bases de Datos", "Git"]
 
 ## 📊 Estadísticas de GitHub
 
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=tu-usuario&show_icons=true&theme=radical)
+![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=AlejandroXV5
+&show_icons=true&theme=radical)
 
-![Lenguajes más utilizados](https://github-readme-stats.vercel.app/api/top-langs/?username=tu-usuario&layout=compact&theme=radical)
+![Lenguajes más utilizados](https://github-readme-stats.vercel.app/api/top-langs/?username=AlejandroXV5
+&layout=compact&theme=radical)
 
 ## 🏆 Racha de Contribuciones
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=tu-usuario&theme=radical)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=AlejandroXV5
+&theme=radical)](https://git.io/streak-stats)
 
 ## 📈 Actividad
 
-![Gráfico de actividad](https://github-readme-activity-graph.vercel.app/graph?username=tu-usuario&theme=redical)
+![Gráfico de actividad](https://github-readme-activity-graph.vercel.app/graph?username=AlejandroXV5
+&theme=redical)
 
-## 📫 Conecta conmigo
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tu-perfil)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tu-email@example.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://tu-portfolio.com)
 
 ---
 
@@ -62,6 +61,9 @@ habilidades = ["Desarrollo Web", "POO", "Bases de Datos", "Git"]
 
 ### 📊 Métricas del Perfil
 
-![Visualizaciones del perfil](https://komarev.com/ghpvc/?username=tu-usuario&label=Visualizaciones%20del%20perfil&color=0e75b6&style=flat)
-![Seguidores](https://img.shields.io/github/followers/tu-usuario?label=Seguidores&style=social)
-![Estrellas](https://img.shields.io/github/stars/tu-usuario?label=Estrellas&style=social)
+![Visualizaciones del perfil](https://komarev.com/ghpvc/?username=AlejandroXV5
+&label=Visualizaciones%20del%20perfil&color=0e75b6&style=flat)
+![Seguidores](https://img.shields.io/github/followers/AlejandroXV5
+?label=Seguidores&style=social)
+![Estrellas](https://img.shields.io/github/stars/AlejandroXV5
+?label=Estrellas&style=social)
